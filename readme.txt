@@ -1,6 +1,6 @@
 === Period Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: period calculator, menstrual cycle calculator, period tracker, menstrual period calculator, ovulation calculator, menstrual calendar, period prediction, menstruation calculator, menstrual cycle tracker, calculate period
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
