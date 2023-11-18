@@ -1,4 +1,4 @@
-# Period Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Period Calculator Widget for WordPress
 
 With our free period calculator, you can find out more about your menstrual cycle and accurately predict when your next period will be.
 
