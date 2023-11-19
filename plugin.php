@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Period Calculator by www.calculator.io
+Plugin Name: CI Period calculator
 Plugin URI: https://www.calculator.io/period-calculator/
 Description: With our free period calculator, you can find out more about your menstrual cycle and accurately predict when your next period will be.
 Version: 1.0.0
