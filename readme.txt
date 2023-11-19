@@ -1,4 +1,4 @@
-=== Period Calculator ===
+=== Period Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: period calculator, menstrual cycle calculator, period tracker, menstrual period calculator, ovulation calculator, menstrual calendar, period prediction, menstruation calculator, menstrual cycle tracker, calculate period
 Requires at least: 5.0
