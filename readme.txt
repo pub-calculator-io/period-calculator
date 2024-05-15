@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Period Calculat
 == Screenshots ==
 
 1. The Period Calculator Input Form.
-2. The Period Calculator Calculation Results.
 
 == Installation ==
 

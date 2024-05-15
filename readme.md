@@ -3,7 +3,6 @@
 With our free period calculator, you can find out more about your menstrual cycle and accurately predict when your next period will be.
 
 ![Period Calculator Input Form](/assets/images/screenshot-1.png "Period Calculator Input Form")
-![Period Calculator Calculation Results](/assets/images/screenshot-2.png "Period Calculator Calculation Results")
 
 ## Installation
 
