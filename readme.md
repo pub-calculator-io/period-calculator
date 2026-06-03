@@ -1,6 +1,6 @@
 # Period Calculator Widget for WordPress
 
-With our free period calculator, you can find out more about your menstrual cycle and accurately predict when your next period will be.
+Accurately predict your next period, track your menstrual cycle, and estimate ovulation with our free Period Calculator. Take control of your health today!
 
 ![Period Calculator Input Form](/assets/images/screenshot-1.png "Period Calculator Input Form")
 
@@ -11,8 +11,8 @@ With our free period calculator, you can find out more about your menstrual cycl
 3. Activate the [Period Calculator](https://www.calculator.io/period-calculator/ "Period Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_period_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_period_calculator(); ?>` to your template where you would like the Period Calculator to appear.
+* Add the shortcode `[calcio_period_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_period_calculator(); ?>` to your template where you would like the Period Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
